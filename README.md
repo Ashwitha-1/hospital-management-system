@@ -114,23 +114,7 @@ Follow the setup instructions based on your technology stack.
 
 ---
 
-## 📸 Screenshots
-
-Add screenshots here.
-
-```md
-![Dashboard](screenshots/dashboard.png)
-```
-
-```md
-![Patient Management](screenshots/patient-management.png)
-```
-
-```md
-![Appointment System](screenshots/appointments.png)
-```
-
----
+ 
 
 ## 🎯 Objectives
 

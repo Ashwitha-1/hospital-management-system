@@ -1,0 +1,15 @@
+C:\Users\lapto\Downloads\hospitalmanagement\hospitalmanagement\src\main\java\com\Controller\PatientController.java
+
+package com.hospital.hospitalmanagement.controller;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.GetMapping;
+
+@Controller
+public class HomeController {
+
+    @GetMapping("/")
+    public String home() {
+        return "index"; // It looks for `src/main/resources/templates/index.html` if using Thymeleaf
+    }
+}
